@@ -5,6 +5,9 @@
     "express": "latest",
     "morgan": "latest",
     "body-parser": "latest",
-    "mongoose": "latest"
+    "mongoose": "latest",
+    "passport": "latest",
+    "passport-local": "latest",
+    "passport-local-mongoose": "latest"
   }
 }
