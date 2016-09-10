@@ -1,3 +1,6 @@
+// server set up:https://docs.google.com/document/d/1aPnljc7xqZjChhYlwfTcnD5F-Ixpxl7yaSqCzU3tzV0/edit?usp=sharing
+
+
 var MongoClient = require('mongodb').MongoClient,
     assert = require('assert');
 
