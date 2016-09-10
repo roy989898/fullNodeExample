@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d2d7f20-949d-4e9d-ba5a-37aa96c783b1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/node-examples/rectangle-1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/node-examples/simplerect.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/node-examples/solve-1.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/week1/node-examples/.idea/workspace.xml" afterPath="$PROJECT_DIR$/week1/node-examples/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/node-examples/rectangle-2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/node-examples/solve-2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/node-examples/solve-3.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="coursera.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -54,7 +52,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="solve-1.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="solve-1.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/week1/node-examples/solve-1.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="380">
@@ -62,6 +60,40 @@
               <folding>
                 <element signature="e#0#40#0" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rectangle-2.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/week1/node-examples/rectangle-2.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+              <folding>
+                <element signature="e#0#40#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="solve-2.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/week1/node-examples/solve-2.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+              <folding>
+                <element signature="e#0#40#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="solve-3.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/week1/node-examples/solve-3.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -84,6 +116,9 @@
         <option value="$PROJECT_DIR$/week1/node-examples/simplerect.js" />
         <option value="$PROJECT_DIR$/week1/node-examples/rectangle-1.js" />
         <option value="$PROJECT_DIR$/week1/node-examples/solve-1.js" />
+        <option value="$PROJECT_DIR$/week1/node-examples/rectangle-2.js" />
+        <option value="$PROJECT_DIR$/week1/node-examples/solve-2.js" />
+        <option value="$PROJECT_DIR$/week1/node-examples/solve-3.js" />
       </list>
     </option>
   </component>
@@ -92,6 +127,9 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
@@ -196,12 +234,19 @@
     <property name="settings.editor.selected.configurable" value="settings.nodejs" />
     <property name="javascript.nodejs.core.library.configured.version" value="4.4.7" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
   </component>
-  <component name="RunManager" selected="Node.js.solve-1.js">
+  <component name="RunManager" selected="Node.js.solve-3.js">
     <configuration default="false" name="simplerect.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="simplerect.js" working-dir="$PROJECT_DIR$/week1/node-examples">
       <method />
     </configuration>
     <configuration default="false" name="solve-1.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="solve-1.js" working-dir="$PROJECT_DIR$/week1/node-examples">
+      <method />
+    </configuration>
+    <configuration default="false" name="solve-2.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="solve-2.js" working-dir="$PROJECT_DIR$/week1/node-examples">
+      <method />
+    </configuration>
+    <configuration default="false" name="solve-3.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="solve-3.js" working-dir="$PROJECT_DIR$/week1/node-examples">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -251,14 +296,18 @@
       <recursive>false</recursive>
       <method />
     </configuration>
-    <list size="2">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Node.js.simplerect.js" />
       <item index="1" class="java.lang.String" itemvalue="Node.js.solve-1.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.solve-2.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.solve-3.js" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.solve-1.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.simplerect.js" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.solve-3.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.solve-2.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.solve-1.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.simplerect.js" />
       </list>
     </recent_temporary>
   </component>
@@ -272,12 +321,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1473506398661</updated>
-      <workItem from="1473506399834" duration="131000" />
+      <workItem from="1473506399834" duration="1511000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="131000" />
+    <option name="totallyTimeSpent" value="1511000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -287,7 +336,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329718" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329718" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -344,6 +393,34 @@
           <folding>
             <element signature="e#0#40#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week1/node-examples/rectangle-2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#40#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week1/node-examples/solve-2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#40#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week1/node-examples/solve-3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
